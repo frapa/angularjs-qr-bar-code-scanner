@@ -1,0 +1,1 @@
+require('./src/qr-bar-code-scanner.directive.js');

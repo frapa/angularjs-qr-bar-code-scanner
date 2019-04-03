@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-qr-bar-code-scanner",
+  "version": "1.0.0",
+  "description": "Qr- and Bar-code scanner for angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frapa/angularjs-qr-bar-code-scanner.git"
+  },
+  "author": "Francesco Pasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frapa/angularjs-qr-bar-code-scanner/issues"
+  },
+  "homepage": "https://github.com/frapa/angularjs-qr-bar-code-scanner#readme",
+  "dependencies": {
+    "angularjs": "0.0.1"
+  }
+}
