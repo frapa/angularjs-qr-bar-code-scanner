@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/frapa/angularjs-qr-bar-code-scanner#readme",
   "dependencies": {
+    "@zxing/library": "^0.12.3",
     "angularjs": "0.0.1"
   }
 }
